@@ -4,11 +4,11 @@
 ## Checklist
 
 ### Base styles: 0 to 478px
-- [ ] Header navigation at top of page: html and css
-- [ ] Main image with text: html and css
-- [ ] Article with selling points: html and css
-- [ ] Simple articles: html and css
-- [ ] Footer with links: html and css
+- [ x] Header navigation at top of page: html and css
+- [ x] Main image with text: html and css
+- [x ] Article with selling points: html and css
+- [ x] Simple articles: html and css
+- [ x] Footer with links: html and css
 
 ### Breakpoint: 479px to 767px
 - [ ] Adjust padding and text size for header navigation
